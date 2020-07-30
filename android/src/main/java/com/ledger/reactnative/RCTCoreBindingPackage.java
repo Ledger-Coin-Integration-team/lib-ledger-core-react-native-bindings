@@ -48,7 +48,6 @@ public class RCTCoreBindingPackage implements ReactPackage
         new RCTCoreStellarLikeWallet(reactContext),
         new RCTCoreStellarLikeAddress(reactContext),
         new RCTCoreAlgorandBlockchainExplorerEngines(reactContext),
-        new RCTCoreAlgorandBlockchainObserverEngines(reactContext),
         new RCTCoreAlgorandNetworkParameters(reactContext),
         new RCTCoreAlgorandAssetParams(reactContext),
         new RCTCoreAlgorandAssetAmount(reactContext),
