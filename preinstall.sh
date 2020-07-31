@@ -6,7 +6,7 @@
 #                              Preinstall script
 #
 
-LIB_CORE_VERSION="3.4.1-rc-210a68"
+LIB_CORE_VERSION="3.4.1-rc-2d10a3"
 BASE_URL="https://s3-eu-west-1.amazonaws.com/ledger-lib-ledger-core/int-algorand-libcorev1/release"
 
 function main() {
